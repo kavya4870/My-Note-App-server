@@ -12,7 +12,9 @@ MongoDB Atlas (Database)
 
 🚀 How to Run the App (Simple Steps)
 1️⃣ Clone the project
-git clone https://github.com/YOUR_USERNAME/my-note-app.git
+1️⃣ Clone the project
+git clone https://github.com/kavya4870/My-Note-App-server.git
+
 
 🖥 Backend Setup
 
